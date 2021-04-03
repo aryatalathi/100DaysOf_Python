@@ -7,6 +7,7 @@
 5. Searching
 6. Sorting
 7. Problem Solving
+-----------------------------------------------------------------------------------------------
 
 1. Day1 : Reverse that number and print it
 2. Day2 : Balanced number or not
