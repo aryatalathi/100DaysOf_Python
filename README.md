@@ -17,3 +17,4 @@
 6.  Day6 : Given four integers A, B, C, N. A, B, C represents the first three numbers of geek-onacci series. Find the Nth number of the series. The nth number of geek-onacci series is a sum of the last three numbers (summation of N-1th, N-2th, and N-3th geek-onacci numbers)
 7.  Day7 : Given a sorted array of positive integers. Rearrange  the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on.
 8.  Day8 : Given a sorted array containing only 0s and 1s, find the transition point. 
+9.  Day9 : Given an array consisting of N integers. Find the maximum length of an increasing subarray of the given array.
