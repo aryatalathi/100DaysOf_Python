@@ -18,3 +18,4 @@
 7.  Day7 : Given a sorted array of positive integers. Rearrange  the array elements alternatively i.e first element should be max value, second should be min value, third should be second max, fourth should be second min and so on.
 8.  Day8 : Given a sorted array containing only 0s and 1s, find the transition point. 
 9.  Day9 : Given an array consisting of N integers. Find the maximum length of an increasing subarray of the given array.
+10.  Day10 : Given an array arr[] of N non-negative integers representing the height of blocks. If width of each block is 1, compute how much water can be trapped between the blocks during the rainy season. 
