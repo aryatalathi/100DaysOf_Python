@@ -6,3 +6,4 @@ Find two lines, which together with x-axis forms a container, such that it conta
 If both have the same number of even outcomes then Ben wins. Find out the winner.
 4. Day14 : Given an array arr[] of size N where every element is in the range from 0 to n-1. Rearrange the given array so that arr[i] becomes arr[arr[i]].
 5. Day15 : Given an unsorted array arr[] of n positive integers. Find the number of triangles that can be formed with three different array elements as lengths of three sides of triangles. 
+6. Day16 : Given a string S, find the length of the longest substring without repeating characters.
