@@ -8,3 +8,4 @@ If both have the same number of even outcomes then Ben wins. Find out the winner
 5. Day15 : Given an unsorted array arr[] of n positive integers. Find the number of triangles that can be formed with three different array elements as lengths of three sides of triangles. 
 6. Day16 : Given a string S, find the length of the longest substring without repeating characters.
 7. Day17 : Given a string without spaces, the task is to remove duplicates from it. The original order of characters must be kept the same. 
+8. Day 18 : Given a string s consisting only lower case alphabets, find the minimum number of changes required to it so that all substrings of the string become distinct.
