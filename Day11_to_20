@@ -11,3 +11,4 @@ If both have the same number of even outcomes then Ben wins. Find out the winner
 8. Day 18 : Given a string s consisting only lower case alphabets, find the minimum number of changes required to it so that all substrings of the string become distinct.
 9. Day 19 : N balls are arranged in a row. The initial color of each ball is represented by string S of length N. The ball is painted black if the ith character of the string is ′B′ and white if the ith character of the string is ′W′. You want to repaint some of the balls black or white so that none of the two adjacent balls having the same color.
             Find how many balls you have to repaint to satisfy the above condition
+10. Day 20 : Count of strings that can be formed using a, b and c under given constraints 
