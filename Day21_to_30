@@ -1,2 +1,4 @@
-1. Day 1 : Given two strings X and Y of lengths m and n respectively, find the length of the smallest string which has both, X and Y as its sub-sequences.
+1. Day 21 : Given two strings X and Y of lengths m and n respectively, find the length of the smallest string which has both, X and Y as its sub-sequences.
 Note: X and Y can have both uppercase and lowercase letters.
+2. Day 22: Anagram or Not
+A string is said to be an anagram of a string if it is created by rearranging the characters which are present in string
