@@ -8,3 +8,4 @@ In other words, arrange the elements into a sequence such that a1 >= a2 <= a3 >=
 4. Day 25 : Case-specific Sorting of Strings : Given a string S consisting of uppercase and lowercase characters. The task is to sort uppercase and lowercase letters separately 
 such that if the ith place in the original string had an Uppercase character then it should not have a lowercase character after being sorted and vice versa.
 5. Day 26 : Insertion Sort
+5. Day 27 : Selection Sort 
