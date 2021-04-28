@@ -10,3 +10,5 @@ such that if the ith place in the original string had an Uppercase character the
 6. Day 26 : Insertion Sort
 7. Day 27 : Selection Sort 
 8. Day 28 : Bubble Sort
+9. Day 29 : Maximum Intervals Overlap : Consider a big party where N guests came to it and a log register for guest’s entry and exit times was maintained.
+Find the minimum time at which there were maximum guests at the party. Note that entries in the register are not in any order.
