@@ -1,3 +1,5 @@
 1. Day 31 : Searching an element in a sorted array (Ternary Search) : Given a sorted array of size N and an integer K. Check if K is present in the array or not using ternary search.
 Ternary Search - It is a divide and conquer algorithm that can be used to find an element in an array. It is similar to binary search where we divide the array into two parts but in this algorithm, we divide the given array into three parts and determine which has the key (searched element).
 2. Day 32 : Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
+3. Day 33 : Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears more than N/2 times in the array.
+ 
