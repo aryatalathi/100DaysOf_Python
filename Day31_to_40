@@ -3,3 +3,4 @@ Ternary Search - It is a divide and conquer algorithm that can be used to find a
 2. Day 32 : Given an array A of positive integers. Your task is to find the leaders in the array. An element of array is leader if it is greater than or equal to all the elements to its right side. The rightmost element is always a leader. 
 3. Day 33 : Given an array A of N elements. Find the majority element in the array. A majority element in an array A of size N is an element that appears more than N/2 times in the array.
 4. Day 34 : Binary Search : Given a sorted array of size N and an integer K, find the position at which K is present in the array using binary search.
+5. Day 35 : Given a boolean 2D array of n x m dimensions where each row is sorted. Find the 0-based index of the first row that has the maximum number of 1's.
