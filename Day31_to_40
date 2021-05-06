@@ -5,3 +5,4 @@ Ternary Search - It is a divide and conquer algorithm that can be used to find a
 4. Day 34 : Binary Search : Given a sorted array of size N and an integer K, find the position at which K is present in the array using binary search.
 5. Day 35 : Given a boolean 2D array of n x m dimensions where each row is sorted. Find the 0-based index of the first row that has the maximum number of 1's.
 6. Day 36 : Given a sorted array A[] of N positive integers having all the numbers occurring exactly twice, except for one number which will occur only once. Find the number occurring only once.
+7. Day 37 : Given an array of non-negative integers of size N. Find the maximum possible XOR between two numbers present in the array.
