@@ -6,3 +6,5 @@ Ternary Search - It is a divide and conquer algorithm that can be used to find a
 5. Day 35 : Given a boolean 2D array of n x m dimensions where each row is sorted. Find the 0-based index of the first row that has the maximum number of 1's.
 6. Day 36 : Given a sorted array A[] of N positive integers having all the numbers occurring exactly twice, except for one number which will occur only once. Find the number occurring only once.
 7. Day 37 : Given an array of non-negative integers of size N. Find the maximum possible XOR between two numbers present in the array.
+8. Day 38 : Josephus problem : Given the total number of persons n and a number k which indicates that k-1 persons are skipped and kth person is killed in circle in a fixed direction.
+The task is to choose the safe place in the circle so that when you perform these operations starting from 1st place in the circle, you are the last one remaining and survive.
