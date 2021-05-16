@@ -4,3 +4,4 @@
 4. Day 44 : Given a doubly linked list, rotate the linked list counter-clockwise by P nodes. Here P is a given positive integer and is smaller than the count of nodes(N) in a linked list.
 5. Day 45 : Given a doubly linked list of n elements. The task is to reverse the doubly linked list.
 6. Day 46 : Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.
+7. Day 47 : Given a singly linked list L0 -> L1 -> … -> Ln-1 -> Ln. Rearrange the nodes in the list so that the new formed list is: L0 -> Ln -> L1 -> Ln-1 -> L2 -> Ln-2.
