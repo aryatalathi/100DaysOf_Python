@@ -5,3 +5,4 @@
 5. Day 45 : Given a doubly linked list of n elements. The task is to reverse the doubly linked list.
 6. Day 46 : Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.
 7. Day 47 : Given a singly linked list L0 -> L1 -> … -> Ln-1 -> Ln. Rearrange the nodes in the list so that the new formed list is: L0 -> Ln -> L1 -> Ln-1 -> L2 -> Ln-2.
+8. Day 48 : A number N is represented in Linked List such that each digit corresponds to a node in linked list. You need to add 1 to it.
