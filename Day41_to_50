@@ -6,3 +6,4 @@
 6. Day 46 : Given a singly linked list of size N of integers. The task is to check if the given linked list is palindrome or not.
 7. Day 47 : Given a singly linked list L0 -> L1 -> … -> Ln-1 -> Ln. Rearrange the nodes in the list so that the new formed list is: L0 -> Ln -> L1 -> Ln-1 -> L2 -> Ln-2.
 8. Day 48 : A number N is represented in Linked List such that each digit corresponds to a node in linked list. You need to add 1 to it.
+9. Day 49 : Given two polynomial numbers represented by a linked list. The task is to complete the function addPolynomial() that adds these lists meaning adds the coefficients who have the same variable powers.
