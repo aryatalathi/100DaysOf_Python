@@ -2,3 +2,5 @@
 2. Day 52 : Given a singly linked list consisting of N nodes. The task is to remove duplicates (nodes with duplicate values) from the given list (if exists).
 Note: Try not to use extra space. Expected time complexity is O(N). The nodes are arranged in a sorted way.
 3. Day 53 : Given an unsorted linked list of N nodes. The task is to remove duplicate elements from this unsorted Linked List. When a value appears in multiple nodes, the node which appeared first should be kept, all others duplicates are to be removed.
+4. Day 54 : Given a singly linked list of size N, and an integer K. You need to swap the Kth node from the beginning and Kth node from the end of the linked list. Swap the nodes through the links. Do not change the content of the nodes.
+The generated output will be 1 if you are able to complete your task.
