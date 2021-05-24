@@ -4,3 +4,4 @@ Note: Try not to use extra space. Expected time complexity is O(N). The nodes ar
 3. Day 53 : Given an unsorted linked list of N nodes. The task is to remove duplicate elements from this unsorted Linked List. When a value appears in multiple nodes, the node which appeared first should be kept, all others duplicates are to be removed.
 4. Day 54 : Given a singly linked list of size N, and an integer K. You need to swap the Kth node from the beginning and Kth node from the end of the linked list. Swap the nodes through the links. Do not change the content of the nodes.
 The generated output will be 1 if you are able to complete your task.
+5. Day 55 : Given a singly linked list of size N. The task is to rotate the linked list counter-clockwise by k nodes, where k is a given positive integer smaller than or equal to length of the linked list.
