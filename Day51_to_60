@@ -6,3 +6,4 @@ Note: Try not to use extra space. Expected time complexity is O(N). The nodes ar
 The generated output will be 1 if you are able to complete your task.
 5. Day 55 : Given a singly linked list of size N. The task is to rotate the linked list counter-clockwise by k nodes, where k is a given positive integer smaller than or equal to length of the linked list.
 6. Day 56 : Implemenet stack operations
+7. Day 57 : Given an array arr[ ] of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array.
