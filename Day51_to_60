@@ -8,3 +8,4 @@ The generated output will be 1 if you are able to complete your task.
 6. Day 56 : Implemenet stack operations
 7. Day 57 : Given an array arr[ ] of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array.
 8. Day 58 : Given a binary tree. Find the inorder traversal of the tree without using recursion
+9. Day 59 : Given an expression string x. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
