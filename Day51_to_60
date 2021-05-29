@@ -9,3 +9,4 @@ The generated output will be 1 if you are able to complete your task.
 7. Day 57 : Given an array arr[ ] of size N having distinct elements, the task is to find the next greater element for each element of the array in order of their appearance in the array.
 8. Day 58 : Given a binary tree. Find the inorder traversal of the tree without using recursion
 9. Day 59 : Given an expression string x. Examine whether the pairs and the orders of “{“,”}”,”(“,”)”,”[“,”]” are correct in exp.
+10. Day 60 : Given binary string str of size N the task is to check if the given string is valid or not. A string is called valid if the number of 0's equals the number of 1's and at any moment starting from the left of the string number 0's must be greater than or equals to the number of 1's.
