@@ -1,2 +1,3 @@
 1. Day 61 : given an array A of size N. You need to first push the elements of the array into a stack and then print minimum in the stack at each pop.
 2. Day 62 : Implement a Stack using two queues q1 and q2.
+3. Day 63 : Given a string S, composed of different combinations of '(' , ')', '{', '}', '[', ']'. The task is to verify the validity of the arrangement.
