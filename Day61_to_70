@@ -4,3 +4,4 @@
 4. Day 64 : Given string S representing a postfix expression, the task is to evaluate the expression and find the final value. Operators will only include the basic arithmetic operators like *, /, + and -
 5. Day 65 : Design a data-structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack.
 6. Day 66 : Given a stack with push(), pop(), empty() operations, delete the middle of the stack without using any additional data structure. Middle: ceil(size_of_stack/2.0)
+7. Day 67 : Given an array a of integers of length n, find the nearest smaller number for every element such that the smaller element is on left side.If no small element present on the left print -1.
