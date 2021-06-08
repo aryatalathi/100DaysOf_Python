@@ -7,3 +7,5 @@
 7. Day 67 : Given an array a of integers of length n, find the nearest smaller number for every element such that the smaller element is on left side.If no small element present on the left print -1.
 8. Day 68 : Given a String. Reverse each word in it where the words are separated by dots.
 9. Day 69 : Given a mathematical equation using numbers/variables and +, -, *, /. Print the equation in reverse.
+10. Day 70 : Given a non-negative integer S represented as a string, remove K digits from the number so that the new number is the smallest possible.
+Note : The given num does not contain any leading zero. 
