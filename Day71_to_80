@@ -1,5 +1,6 @@
-Given an infix expression in the form of string str. Convert this infix expression to postfix expression.
+Day71 : Given an infix expression in the form of string str. Convert this infix expression to postfix expression.
 
 Infix expression: The expression of the form a op b. When an operator is in-between every pair of operands.
 Postfix expression: The expression of the form a b op. When an operator is followed for every pair of operands.
-â€‹Note: The order of precedence is: ^ greater than * equals to / greater than + equals to -. 
+Note: The order of precedence is: ^ greater than * equals to / greater than + equals to -. 
+Day72 :Given N integers, the task is to insert those elements in the queue. Also, given M integers, task is to find the frequency of each number in the Queue.
