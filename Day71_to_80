@@ -4,3 +4,4 @@ Infix expression: The expression of the form a op b. When an operator is in-betw
 Postfix expression: The expression of the form a b op. When an operator is followed for every pair of operands.
 Note: The order of precedence is: ^ greater than * equals to / greater than + equals to -. 
 Day72 :Given N integers, the task is to insert those elements in the queue. Also, given M integers, task is to find the frequency of each number in the Queue.
+Day 73 : Implement a Queue using an Array. Queries in the Queue are of the following type: (i) 1 x (a query of this type means  pushing 'x' into the queue) (ii) 2 (a query of this type means to pop element from queue and print the poped element)
