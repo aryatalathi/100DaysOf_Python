@@ -6,3 +6,4 @@ Note: The order of precedence is: ^ greater than * equals to / greater than + eq
 Day72 :Given N integers, the task is to insert those elements in the queue. Also, given M integers, task is to find the frequency of each number in the Queue.
 Day 73 : Implement a Queue using an Array. Queries in the Queue are of the following type: (i) 1 x (a query of this type means  pushing 'x' into the queue) (ii) 2 (a query of this type means to pop element from queue and print the poped element)
 Day 74 : Queue Operations
+Day 75 : Implement a Queue using two stacks
