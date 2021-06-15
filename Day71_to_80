@@ -8,3 +8,4 @@ Day 73 : Implement a Queue using an Array. Queries in the Queue are of the follo
 Day 74 : Queue Operations
 Day 75 : Implement a Queue using two stacks
 Day 76 : Reverse First K elements of Queue
+Day 77 : Given an array of digits (values are from 0 to 9), find the minimum possible sum of two numbers formed from digits of the array. All digits of given array must be used to form the two numbers.
