@@ -14,3 +14,4 @@ Day 78 : Suppose there is a circle. There are N petrol pumps on that circle. You
 2. Distance from that petrol pump to the next petrol pump.
 Find a starting point where the truck can start to get through the complete circle without exhausting its petrol in between.
 Day 79 : Given two strings str1 and str2. The task is to remove or insert the minimum number of characters from/in str1 so as to transform it into str2. It could be possible that the same character needs to be removed/deleted from one point of str1 and inserted to some another point.
+Day 80 : Given a string of S as input. Your task is to write a program to remove or delete the minimum number of characters from the string so that the resultant string is a palindrome.
