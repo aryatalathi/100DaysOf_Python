@@ -1,4 +1,7 @@
-Minimum Cost To Make Two Strings Identical
+1. Day81 : Minimum Cost To Make Two Strings Identical
 Given two strings X and Y, and two values costX and costY, the task is to find the minimum cost required to make the given two strings identical. 
 You can delete characters from both the strings. 
 The cost of deleting a character from string X is costX and from Y is costY. The cost of removing all characters from a string is the same.¶
+2. Day 82 : Stickler the thief wants to loot money from a society having n houses in a single line. He is a weird person and follows a certain rule when looting the houses. According to the rule, he will never loot two consecutive houses.
+At the same time, he wants to maximize the amount he loots. The thief knows which house has what amount of money but is unable to come up with an optimal looting strategy. 
+He asks for your help to find the maximum money he can get if he strictly follows the rule. Each house has a[i] amount of money present in it.
