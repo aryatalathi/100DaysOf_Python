@@ -10,3 +10,5 @@ What is the maximum number of books that you can collect this way ?
 4. Day 84 : You have a rectangular grid mat of dimension 2 x N. You need to find out the maximum sum such that no two chosen numbers are adjacent, vertically, diagonally or horizontally.
 5. Day 85 : There are N points on the road ,you can step ahead by 1 or 2 . Find the number of ways you can reach at point N. 
 6. Day 86 : A frog jumps either 1, 2, or 3 steps to go to the top. In how many ways can it reach the top. As the answer will be large find the answer modulo 1000000007.
+7. Day 87 : You are given n days and for each day (di) you can select one of the following options:1.perform no task  2. perform a high effort task (hi) only if its the first day or if you chose no-task on the previous day 3.perform a low effort task (li)
+Write a program to find the maximum amount of tasks you can perform within these n days. 
