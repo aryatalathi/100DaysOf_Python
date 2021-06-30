@@ -1,2 +1,4 @@
-Given a string, find the length of the longest repeating subsequence such that the two subsequences don't have 
+Day91 : Given a string, find the length of the longest repeating subsequence such that the two subsequences don't have 
 same string character at the same position, i.e., any i'th character in the two subsequences shouldn't have the same index in the original string.
+Day92 : There are N different vegetable sellers in a line. A single kilogram each of brinjal, carrot and tomato are available with every seller but at different prices. Geek wants to buy exactly one vegetable from one shop and avoid buying the same vegetables from adjacent shops. 
+Given the cost of each vegetable in each shop in a Nx3 matrix, calculate the minimum amount of money that Geek must spend in the inspection. 
