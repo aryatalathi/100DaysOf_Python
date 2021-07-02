@@ -3,3 +3,4 @@ same string character at the same position, i.e., any i'th character in the two 
 Day92 : There are N different vegetable sellers in a line. A single kilogram each of brinjal, carrot and tomato are available with every seller but at different prices. Geek wants to buy exactly one vegetable from one shop and avoid buying the same vegetables from adjacent shops. 
 Given the cost of each vegetable in each shop in a Nx3 matrix, calculate the minimum amount of money that Geek must spend in the inspection. 
 Day93 : Given two strings S and T of length n and m respectively. find count of distinct occurrences of T in S as a sub-sequence. 
+Day94 : Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM } valued coins. 
