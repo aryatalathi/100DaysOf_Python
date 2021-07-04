@@ -5,3 +5,5 @@ Given the cost of each vegetable in each shop in a Nx3 matrix, calculate the min
 Day93 : Given two strings S and T of length n and m respectively. find count of distinct occurrences of T in S as a sub-sequence. 
 Day94 : Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM } valued coins. 
 Day95 : Given an array Arr of size N, each element of the array represents the amount of calories, the task is to calculate the maximum of amount of calories you can get remembering the fact that you cannot take three consecutive calories.
+Day96 : Knapsack with Duplicate items
+Given a set of N items, each with a weight and a value, and a weight limit W. Find the maximum value of a collection containing any of the N items any number of times so that the total weight is less than or equal to W.¶
