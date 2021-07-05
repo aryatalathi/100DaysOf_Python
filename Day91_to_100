@@ -1,9 +1,7 @@
-Day91 : Given a string, find the length of the longest repeating subsequence such that the two subsequences don't have 
-same string character at the same position, i.e., any i'th character in the two subsequences shouldn't have the same index in the original string.
-Day92 : There are N different vegetable sellers in a line. A single kilogram each of brinjal, carrot and tomato are available with every seller but at different prices. Geek wants to buy exactly one vegetable from one shop and avoid buying the same vegetables from adjacent shops. 
-Given the cost of each vegetable in each shop in a Nx3 matrix, calculate the minimum amount of money that Geek must spend in the inspection. 
+Day91 : Given a string, find the length of the longest repeating subsequence such that the two subsequences don't have same string character at the same position, i.e., any i'th character in the two subsequences shouldn't have the same index in the original string.
+Day92 : There are N different vegetable sellers in a line. A single kilogram each of brinjal, carrot and tomato are available with every seller but at different prices. Geek wants to buy exactly one vegetable from one shop and avoid buying the same vegetables from adjacent shops.  Given the cost of each vegetable in each shop in a Nx3 matrix, calculate the minimum amount of money that Geek must spend in the inspection. 
 Day93 : Given two strings S and T of length n and m respectively. find count of distinct occurrences of T in S as a sub-sequence. 
 Day94 : Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , SM } valued coins. 
 Day95 : Given an array Arr of size N, each element of the array represents the amount of calories, the task is to calculate the maximum of amount of calories you can get remembering the fact that you cannot take three consecutive calories.
-Day96 : Knapsack with Duplicate items
-Given a set of N items, each with a weight and a value, and a weight limit W. Find the maximum value of a collection containing any of the N items any number of times so that the total weight is less than or equal to W.¶
+Day96 : Knapsack with Duplicate items : Given a set of N items, each with a weight and a value, and a weight limit W. Find the maximum value of a collection containing any of the N items any number of times so that the total weight is less than or equal to W.¶
+Day97 : A Lucas Number is a number which is represented by the following recurrence : Ln = Ln-1 + Ln-2 for n>1; L0 = 2; L1 = 1. Given a number N, find the Nth lucas number.
