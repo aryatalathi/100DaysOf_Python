@@ -8,4 +8,4 @@
 6. Sorting
 7. Problem Solving
 -----------------------------------------------------------------------------------------------
-
+Repository contains 100 python problem of above topics. These problem statements are randomly chosen from GeeksForGeeks, Leetcode, Prepbytes and some basic operation in Python.
